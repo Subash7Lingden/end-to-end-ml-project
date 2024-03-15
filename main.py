@@ -1,1 +1,6 @@
-from src.mlProject.config import configuration
+from mlProject import logger
+
+
+
+
+logger.info("My name is Subash Kumar Lingden")
